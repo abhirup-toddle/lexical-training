@@ -1,2 +1,2 @@
-# lexical-training
+# wavesufers
 Created with CodeSandbox
